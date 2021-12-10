@@ -1,2 +1,3 @@
-# SpaceInvaders_Python
-Classic Game of Space Invaders, created on Python using VSCode
+# Space Invaders using PyGame
+
+The Classic Space Invaders, created on VSCode using Python.
