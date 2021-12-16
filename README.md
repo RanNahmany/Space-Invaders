@@ -2,4 +2,4 @@
 
 The Classic Space Invaders, created on VSCode using Python.
 
-<img align="left" width="500" height="400" src="https://raw.githubusercontent.com/RanNahmany/Space-Invaders/main/Sample.gif">
+<img align="left" width="500" height="300" src="https://raw.githubusercontent.com/RanNahmany/Space-Invaders/main/Sample.gif">
