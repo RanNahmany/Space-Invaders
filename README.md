@@ -1,6 +1,6 @@
 # Space Invaders using PyGame
 
-The Classic Space Invaders, created on VSCode using Python.
+The Classic Space Invaders, created on VSCode using Python and PyGame.
 
 
 ## How it looks
